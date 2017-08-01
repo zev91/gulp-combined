@@ -1,0 +1,49 @@
+{
+    "news":[
+       {
+         "img":"http://i2.muimg.com/4851/878a57392b73296d.jpg",
+         "title": "The swan",
+         "brif": "Graphic Design"
+        },
+        {
+         "img":"http://i2.muimg.com/4851/f2baacfa3c0efc8f.jpg",
+         "title": "Bicycle",
+         "brif": "Graphic Design"
+        },
+        {
+         "img":"http://i2.muimg.com/4851/719eb8030af7d9d8.jpg",
+         "title": "Hug",
+         "brif": "Graphic Design"
+        },
+        {
+         "img":"http://i2.muimg.com/4851/6cc8a35fdcd53129.jpg",
+         "title": "Old Man",
+         "brif": "Graphic Design"
+        },
+        {
+         "img":"http://i2.muimg.com/4851/ce0baa810f2d8774.jpg",
+         "title": "Forest",
+         "brif": "Graphic Design"
+        },
+        {
+         "img":"http://i2.muimg.com/4851/305288f76ff479f1.jpg",
+         "title": "San Francisco",
+         "brif": "Graphic Design"  
+        },
+        {
+         "img":"http://i2.muimg.com/4851/b6bd16f7ef0e72b3.jpg",
+         "title": "Seaside",
+         "brif": "Graphic Design"
+        },
+        {
+         "img":"http://i2.muimg.com/4851/cda1599075ff987a.jpg",
+         "title": "Street",
+         "brif": "Graphic Design"
+        },
+        {
+         "img":"http://i2.muimg.com/4851/14bc9301ecbb8143.jpg",
+         "title": "Wall",
+         "brif": "Graphic Design"
+        }
+      ]
+      }
